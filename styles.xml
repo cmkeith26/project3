@@ -1,0 +1,15 @@
+<resources>
+
+    <!--
+    Programmer: Candace Keith
+    Date: 2/26/17
+    Lab: 11
+    Purpose: To build a working calculator using Android Studio
+    -->
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style><!--End style-->
+
+</resources><!--End resources-->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Programmer: Candace Keith
+Date: 2/26/17
+Lab: 11
+Purpose: To build a working calculator using Android Studio
+-->
+
+<resources>
+
+    <string name="app_name">Calculator</string><!--Setting app name to Calculator-->
+    <string name="hello_world">Hello world!</string><!--Setting hello_world to Hello World!-->
+    <string name="action_settings">Settings</string><!--Setting action_settings to Settings-->
+
+    <string name="one">1</string><!--Setting string one to 1-->
+    <string name="two">2</string><!--Setting string two to 2-->
+    <string name="three">3</string><!--Setting string three to 3-->
+    <string name="four">4</string><!--Setting string four to 4-->
+    <string name="five">5</string><!--Setting string five to 5-->
+    <string name="six">6</string><!--Setting string six to 6-->
+    <string name="seven">7</string><!--Setting string seven to 7-->
+    <string name="eight">8</string><!--Setting string eight to 8-->
+    <string name="nine">9</string><!--Setting string nine to 9-->
+    <string name="zero">0</string><!--Setting string zero to 0-->
+
+    <string name="ac">AC</string><!--Setting string ac to AC-->
+    <string name="sign">+/-</string><!--Setting string sign to + -->
+    <string name="percent">%</string><!--Setting string percent to % -->
+    <string name="div">/</string><!--Setting string div to / -->
+    <string name="mult">x</string><!--Setting string mult to x -->
+    <string name="subtract">-</string><!--Setting string subtract to - -->
+    <string name="add">+</string><!--Setting string add to +-->
+    <string name="equal">=</string><!--Setting string equal to = -->
+    <string name="decimal">.</string><!--Setting string decimal to . -->
+
+</resources><!--End resources-->

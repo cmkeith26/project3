@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Programmer: Candace Keith
+Date: 2/26/17
+Lab: 11
+Purpose: To build a working calculator using Android Studio
+-->
+<resources>
+    <item name="action_settings" type="id" />
+</resources><!--End resources-->

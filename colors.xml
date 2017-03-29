@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange_cream">#00FF00</color><!--setting orange color-->
+    <color name="grey">#EDBA69</color><!--setting grey color-->
+    <color name="dusk_blue">#8BADCA</color><!--setting dusk blue color-->
+</resources><!--End resources-->
